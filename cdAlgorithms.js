@@ -1,6 +1,5 @@
 
 
-
 // Iterate an array
 function iterArr(arr){
 	var sum = 0;
